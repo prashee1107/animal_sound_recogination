@@ -1,0 +1,37 @@
+body{
+    background:rgb(177, 175, 175) ;
+    font-family: 'Elsie Swash Caps', cursive;
+    }
+.header_div {
+    background: rgb(163, 239, 220);
+    color: purple;
+    
+}
+.header_div p {
+    font-family: 'Cinzel', serif;
+    color: rgb(44, 42, 42);
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    font-family: 'Cinzel', serif;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer_div{
+    position: fixed;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background: rgb(163, 239, 220);
+    line-height: 3;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    }
+.header_div h1{
+    font-size: 40px;
+}
